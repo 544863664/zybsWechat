@@ -1,0 +1,493 @@
+{
+    "pages": [{
+            "path": "pages/qiuZhi/shouYe/shouYe",
+            "style": {
+                "navigationBarTitleText": "首页"
+            }
+        },
+        {
+            "path": "pages/qiuZhi/shouYe/offline",
+            "style": {
+                "navigationBarTitleText": "专场详情"
+            }
+        },
+        {
+            "path": "pages/qiuZhi/shouYe/company",
+            "style": {
+                "navigationBarTitleText": "企业详情"
+            }
+        },
+        {
+            "path": "pages/qiuZhi/shouYe/search",
+            "style": {
+                "navigationBarTitleText": "搜索"
+            }
+        },
+        {
+            "path": "pages/qiuZhi/gangWei/gangWei",
+            "style": {
+                "navigationBarTitleText": "岗位"
+            }
+        },
+        {
+            "path": "pages/qiuZhi/gangWei/detail",
+            "style": {
+                "navigationBarTitleText": "岗位详情"
+            }
+        },
+        {
+            "path": "pages/qiuZhi/gangWei/map",
+            "style": {
+                "navigationBarTitleText": "地图"
+            }
+        },
+        {
+            "path": "pages/qiuZhi/gangWei/sendResume",
+            "style": {
+                "navigationBarTitleText": "投递成功"
+            }
+        },
+
+        {
+            "path": "pages/qiuZhi/xiaoXi/xiaoXi",
+            "style": {
+                "navigationBarTitleText": "消息"
+            }
+        },
+        {
+            "path": "pages/qiuZhi/xiaoXi/check",
+            "style": {
+                "navigationBarTitleText": "谁看过我"
+            }
+        },
+        {
+            "path": "pages/qiuZhi/xiaoXi/hr",
+            "style": {
+                "navigationBarTitleText": "招聘专员"
+            }
+        },
+        {
+            "path": "pages/qiuZhi/xiaoXi/invitation",
+            "style": {
+                "navigationBarTitleText": "面试邀约"
+            }
+        },
+        {
+            "path": "pages/qiuZhi/xiaoXi/notice",
+            "style": {
+                "navigationBarTitleText": "会训通知"
+            }
+        },
+        {
+            "path": "pages/qiuZhi/xiaoXi/survey",
+            "style": {
+                "navigationBarTitleText": "问卷调查"
+            }
+        },
+        {
+            "path": "pages/qiuZhi/xiaoXi/news",
+            "style": {
+                "navigationBarTitleText": "消息提醒"
+            }
+        },
+
+        {
+            "path": "pages/login/login",
+            "style": {
+                "navigationBarTitleText": "登录"
+            }
+        },
+        {
+            "path": "pages/qiuZhi/woDe/woDe",
+            "style": {
+                "navigationBarTitleText": "我的"
+            }
+        },
+        {
+            "path": "pages/qiuZhi/xiaoXi/hrD",
+            "style": {
+                "navigationBarTitleText": "招聘专员"
+            }
+        },
+        {
+            "path": "pages/qiuZhi/shouYe/join",
+            "style": {
+                "navigationBarTitleText": "我要参会"
+            }
+        }
+    ],
+    "subPackages": [{
+        "root": "woDe",
+        "optimization": {
+            "subPackages": true
+        },
+        "pages": [{
+                "path": "addExperience",
+                "style": {
+                    "navigationBarTitleText": "工作经验"
+                }
+            },
+            {
+                "path": "personalInfo",
+                "style": {
+                    "navigationBarTitleText": "编辑个人信息"
+                }
+            },
+            {
+                "path": "editExperience",
+                "style": {
+                    "navigationBarTitleText": "编辑工作经验"
+                }
+            },
+            {
+                "path": "editProject",
+                "style": {
+                    "navigationBarTitleText": "编辑项目经验"
+                }
+            },
+            {
+                "path": "addEducation",
+                "style": {
+                    "navigationBarTitleText": "添加教育经历"
+                }
+            },
+            {
+                "path": "train",
+                "style": {
+                    "navigationBarTitleText": "培训经历"
+                }
+            },
+            {
+                "path": "editTrain",
+                "style": {
+                    "navigationBarTitleText": "培训课程"
+                }
+            },
+            {
+                "path": "language",
+                "style": {
+                    "navigationBarTitleText": "语言能力"
+                }
+            },
+            {
+                "path": "professional",
+                "style": {
+                    "navigationBarTitleText": "专业技能"
+                }
+            },
+            {
+                "path": "attention",
+                "style": {
+                    "navigationBarTitleText": "关注公司"
+                }
+            },
+            {
+                "path": "certificate",
+                "style": {
+                    "navigationBarTitleText": "获得证书"
+                }
+            },
+            {
+                "path": "scientific",
+                "style": {
+                    "navigationBarTitleText": "科研经历"
+                }
+            },
+            {
+                "path": "paperInfo",
+                "style": {
+                    "navigationBarTitleText": "论文信息"
+                }
+            },
+            {
+                "path": "mainCourse",
+                "style": {
+                    "navigationBarTitleText": "研究方向主修课程"
+                }
+            },
+            {
+                "path": "patent",
+                "style": {
+                    "navigationBarTitleText": "专利信息"
+                }
+            },
+            {
+                "path": "honor",
+                "style": {
+                    "navigationBarTitleText": "荣誉奖励"
+                }
+            },
+            {
+                "path": "accessory",
+                "style": {
+                    "navigationBarTitleText": "附件"
+                }
+            },
+            {
+                "path": "intention",
+                "style": {
+                    "navigationBarTitleText": "求职意向"
+                }
+            },
+            {
+                "path": "addIntention",
+                "style": {
+                    "navigationBarTitleText": "求职意向"
+                }
+            },
+            {
+                "path": "myorder",
+                "style": {
+                    "navigationBarTitleText": "我的订单"
+                }
+            },
+            {
+                "path": "attend",
+                "style": {
+                    "navigationBarTitleText": "参会信息"
+                }
+            },
+            {
+                "path": "mySend",
+                "style": {
+                    "navigationBarTitleText": "我的投递"
+                }
+            },
+            {
+                "path": "collect",
+                "style": {
+                    "navigationBarTitleText": "职位收藏"
+                }
+            },
+            {
+                "path": "sendDetail",
+                "style": {
+                    "navigationBarTitleText": "投递进度"
+                }
+            },
+            {
+                "path": "resume",
+                "style": {
+                    "navigationBarTitleText": "附件简历"
+                }
+            },
+            {
+                "path": "computer",
+                "style": {
+                    "navigationBarTitleText": "电脑上传"
+                }
+            },
+            {
+                "path": "uploadHtml",
+                "style": {
+                    "navigationBarTitleText": "uploadHtml"
+                }
+            },
+            {
+                "path": "editor",
+                "style": {
+                    "navigationBarTitleText": "创建简历(1/4)"
+                }
+            },
+            {
+                "path": "editornext",
+                "style": {
+                    "navigationBarTitleText": "创建简历(2/4)"
+                }
+            },
+            {
+                "path": "editorthree",
+                "style": {
+                    "navigationBarTitleText": "创建简历(3/4)"
+                }
+            },
+            {
+                "path": "editorfour",
+                "style": {
+                    "navigationBarTitleText": "创建简历(4/4)"
+                }
+            },
+            {
+                "path": "privacy",
+                "style": {
+                    "navigationBarTitleText": "隐私设置"
+                }
+            },
+            {
+                "path": "enterprise",
+                "style": {
+                    "navigationBarTitleText": "屏蔽企业"
+                }
+            },
+            {
+                "path": "onlineEdit",
+                "style": {
+                    "navigationBarTitleText": "完善简历"
+                }
+            },
+            {
+                "path": "integral",
+                "style": {
+                    "navigationBarTitleText": "我的积分"
+                }
+            },
+            {
+                "path": "selfEvaluate",
+                "style": {
+                    "navigationBarTitleText": "自我评价"
+                }
+            },
+            {
+                "path": "eduExperience",
+                "style": {
+                    "navigationBarTitleText": "教育经历"
+                }
+            },
+            {
+                "path": "publicActive",
+                "style": {
+                    "navigationBarTitleText": "参与社会活动"
+                }
+            },
+            {
+                "path": "addProject",
+                "style": {
+                    "navigationBarTitleText": "项目经验"
+                }
+            },
+            {
+                "path": "proDescribe",
+                "style": {
+                    "navigationBarTitleText": "项目描述"
+                }
+            },
+            {
+                "path": "meetings",
+                "style": {
+                    "navigationBarTitleText": "参会信息"
+                }
+            },
+            {
+                "path": "help",
+                "style": {
+                    "navigationBarTitleText": "用户反馈与帮助"
+                }
+            },
+            {
+                "path": "setting",
+                "style": {
+                    "navigationBarTitleText": "设置"
+                }
+            },
+            {
+                "path": "binding",
+                "style": {
+                    "navigationBarTitleText": "手机号绑定"
+                }
+            },
+            {
+                "path": "findjob",
+                "style": {
+                    "navigationBarTitleText": "找到工作了，如何删除我的简历"
+                }
+            },
+            {
+                "path": "tips",
+                "style": {
+                    "navigationBarTitleText": "系统提示验证码获取过于频繁"
+                }
+            },
+            {
+                "path": "shield",
+                "style": {
+                    "navigationBarTitleText": "如何让某些企业无法搜索到我的简历"
+                }
+            },
+            {
+                "path": "issue",
+                "style": {
+                    "navigationBarTitleText": "我不想看到某些企业发布的职位，怎么办"
+                }
+            },
+            {
+                "path": "email",
+                "style": {
+                    "navigationBarTitleText": "如何修改邮箱"
+                }
+            },
+            {
+                "path": "phone",
+                "style": {
+                    "navigationBarTitleText": "如何修改手机号"
+                }
+            },
+            {
+                "path": "check",
+                "style": {
+                    "navigationBarTitleText": "我的投递记录会被其他企业看到吗"
+                }
+            },
+            {
+                "path": "how",
+                "style": {
+                    "navigationBarTitleText": "我是企业，如何在博士投招人"
+                }
+            },
+            {
+                "path": "recall",
+                "style": {
+                    "navigationBarTitleText": "投出去的简历还能撤回吗"
+                }
+            }
+        ]
+    }],
+    "globalStyle": {
+        "navigationBarTextStyle": "white",
+        "navigationBarTitleText": "uni-app",
+        "navigationBarBackgroundColor": "#ff8520",
+        // "navigationStyle": "custom",
+        "usingComponents": {
+            "van-button": "/wxcomponents/vant/button/index",
+            "van-checkbox": "/wxcomponents/vant/checkbox/index",
+            "van-checkbox-group": "/wxcomponents/vant/checkbox-group/index",
+            "van-loading": "/wxcomponents/vant/loading/index",
+            "van-action-sheet": "/wxcomponents/vant/action-sheet/index",
+            "van-swipe-cell": "/wxcomponents/vant/swipe-cell/index",
+            "van-uploader": "/wxcomponents/vant/uploader/index"
+        }
+    },
+    "tabBar": {
+        "color": "#b2b2b2",
+        "selectedColor": "#ff8421",
+        "borderStyle": "black",
+        "backgroundColor": "#ffffff",
+        // "fontSize":"30px",
+        // "iconWidth":"80rpx",
+        // "spacing":"10px",
+        "list": [{
+                "pagePath": "pages/qiuZhi/shouYe/shouYe",
+                "iconPath": "/static/tabbar/home.png",
+                "selectedIconPath": "static/tabbar/home-on.png",
+                "text": "首页"
+            },
+            {
+                "pagePath": "pages/qiuZhi/gangWei/gangWei",
+                "iconPath": "/static/tabbar/station.png",
+                "selectedIconPath": "static/tabbar/station-on.png",
+                "text": "岗位"
+            },
+            {
+                "pagePath": "pages/qiuZhi/xiaoXi/xiaoXi",
+                "iconPath": "/static/tabbar/msg.png",
+                "selectedIconPath": "static/tabbar/msg-on.png",
+                "text": "消息"
+            },
+            {
+                "pagePath": "pages/qiuZhi/woDe/woDe",
+                "iconPath": "/static/tabbar/mine.png",
+                "selectedIconPath": "static/tabbar/mine-on.png",
+                "text": "我的"
+            }
+        ]
+    }
+}
